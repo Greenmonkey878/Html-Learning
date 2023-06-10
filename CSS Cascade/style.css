@@ -18,6 +18,6 @@ p {
   background-color: purple;
 }
 .white-text{
-  color: white !important;
+  color: white;
   background-color: red;
 }
