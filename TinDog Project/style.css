@@ -26,3 +26,13 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.btn-primary{
+  color: black;
+  background-color: white;
+  border: 0px;
+}
+.btn-outline-secondary{
+  color: white;
+  border: white solid 1px;
+}
